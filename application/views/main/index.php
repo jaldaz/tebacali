@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    <meta name="google-site-verification" content="eLwIezUupv50aRF59kPkkg1Wh3aDD35P43JQSzxdXUA" />
+    
     <title>Caliteba - Caliteba Web</title>
 
     <!-- Bootstrap core CSS -->
