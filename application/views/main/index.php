@@ -58,7 +58,7 @@
     <header class="masthead">
       <div class="header-content">
         <div class="header-content-inner">
-          <h1 id="homeHeading">Caliteba</h1>
+          <h1 id="homeHeading">Caliteba SRL</h1>
           <hr>
           <p>arcu phasellus ut commodo venenatis maecenas id nunc at porta</p>
           <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Averigua Mas!</a>
@@ -243,7 +243,7 @@
         <div class="row">
           <div class="col-lg-4 ml-auto text-center">
             <i class="fa fa-phone fa-3x sr-contact"></i>
-            <p>+5411-4563-6789</p>
+            <p>+5411 4738 3367</p>
           </div>
           <div class="col-lg-4 mr-auto text-center">
             <i class="fa fa-envelope-o fa-3x sr-contact"></i>
