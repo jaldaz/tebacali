@@ -245,7 +245,7 @@ height: 100%;
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     font-size: 14px; }
 .portfolio-box:hover .portfolio-box-caption {
-    background: rgba(60, 60, 160, 0.8);
+    background: rgba(64, 96, 160, 1);
 opacity: 1;}
 .portfolio-box:focus {
     outline: none; }
