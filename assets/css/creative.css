@@ -214,7 +214,8 @@ header.masthead .header-content .header-content-inner p {
     max-width: 650px;
     margin: 0 auto; 
 height: 100%;
-    min-height: 400px;}
+    min-height: 400px;
+text-align: center;}
 .portfolio-box .portfolio-box-caption {
     position: absolute;
     bottom: 0;
@@ -328,7 +329,7 @@ fieldset[disabled] .btn-default:hover {
     background-color: #4060a0; }
 .btn-primary.focus, .btn-primary:focus {
     color: white;
-    border-color: #a4270d;
+    border-color: #3959b0;
     background-color: #3f5fb9; }
 .btn-primary:hover {
     color: white;
@@ -344,8 +345,8 @@ fieldset[disabled] .btn-default:hover {
 .open > .btn-primary.dropdown-toggle:focus,
 .open > .btn-primary.dropdown-toggle:hover {
     color: white;
-    border-color: #a4270d;
-    background-color: #c93110; }
+    border-color: #3959b0;
+    background-color: #3f5fb9; }
 .btn-primary.active, .btn-primary:active,
 .open > .btn-primary.dropdown-toggle {
     background-image: none; }
