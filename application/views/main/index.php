@@ -16,7 +16,7 @@
 
     <!-- Custom fonts for this template -->
     <?php /*<link href="<?php echo base_url("assets/css/font-awesome.min.css"); ?>" rel="stylesheet" type="text/css"> */ ?>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
@@ -111,7 +111,7 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
         <div class="row">
           <div class="col-lg-4 col-md-4 text-center">
             <div class="service-box">
-              <i class="fa fa-4x fa-thermometer-2 text-primary sr-icons"></i>
+              <i class="fa fa-4x fa-thermometer-half text-primary sr-icons"></i>
               <h3>Calibraciones</h3>
               <p class="text-muted">Segun Normas IRAM 301 / ISO 17025.</p>
             </div>
@@ -145,6 +145,7 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
             <h2 class="section-heading text-white">Empresas Representadas</h2>            
             <p class="text-faded">            
                 Las siguientes empresas confian en nuestros servicios para ser representadas en el territorio nacional.
+                <br/>
             <a class="btn btn-default btn-xl js-scroll-trigger" href="#portfolio-list">Empresas <i class="fa fa-angle-down"></i></a>
           </div>
         </div>
@@ -301,6 +302,55 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
               </div>
             </a>
           </div>            
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="<?php echo base_url("assets/img/portfolio/climats.png"); ?>">
+                <span class="img-helper"></span>
+              <img class="img-fluid" src="<?php echo base_url("assets/img/portfolio/climats.png"); ?>" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Climats
+                  </div>
+                  <div class="project-name">
+                    Camaras para ensayos climaticos.
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>            
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="<?php echo base_url("assets/img/portfolio/lloyd.png"); ?>">
+                <span class="img-helper"></span>
+              <img class="img-fluid" src="<?php echo base_url("assets/img/portfolio/lloyd.png"); ?>" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">                      
+                    Lloyd Instruments ltd
+                  </div>
+                  <div class="project-name">
+                    Maquinas para ensayos de materiales.
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>            
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="<?php echo base_url("assets/img/portfolio/lum.png"); ?>">
+                <span class="img-helper"></span>
+              <img class="img-fluid" src="<?php echo base_url("assets/img/portfolio/lum.png"); ?>" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">                    
+                    LUM BmgH
+                  </div>
+                  <div class="project-name">
+                      Equipos para analisis de dispersion acelerada y caracterizacion de particulas.
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>                        
+            
         </div>
       </div>
     </section>    
@@ -316,11 +366,11 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
         <div class="row">
           <div class="col-lg-3 ml-auto text-center">
             <i class="fa fa-home fa-3x sr-contact"></i>
-            <p>Diag. 69 Dr Aleu 3329/31<br/>1651 San Andres<br/>Buenos Aires, Argentina</p>
+            <p>Diag. 69 Dr Aleu 3329/31<br/>B1651EKE - San Andres<br/>Buenos Aires, Argentina</p>
           </div>            
           <div class="col-lg-3 ml-auto text-center">
             <i class="fa fa-phone fa-3x sr-contact"></i>
-            <p>+5411 4738 3367<br/>+5411 4738 6967<br/>+5411 4738 1421</p>
+            <p>+5411 4738 3367<br/>+5411 4738 6967</p>
           </div>
           <div class="col-lg-3 mr-auto text-center">
             <i class="fa fa-envelope-o fa-3x sr-contact"></i>
