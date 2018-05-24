@@ -16,7 +16,7 @@
 
     <!-- Custom fonts for this template -->
     <?php /*<link href="<?php echo base_url("assets/css/font-awesome.min.css"); ?>" rel="stylesheet" type="text/css"> */ ?>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" integrity="sha384-DmABxgPhJN5jlTwituIyzIUk6oqyzf3+XuP7q3VfcWA2unxgim7OSSZKKf0KSsnh" crossorigin="anonymous">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
@@ -373,13 +373,13 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
             <p>+5411 4738 3367<br/>+5411 4738 6967</p>
           </div>
           <div class="col-lg-3 mr-auto text-center">
-            <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+            <i class="fa fa-envelope-open fa-3x sr-contact"></i>
             <p>
               <a href="mailto:info@caliteba.com.ar">info@caliteba.com.ar</a>
             </p>
           </div>
           <div class="col-lg-3 mr-auto text-center">
-            <i class="fa fa-facebook fa-3x sr-contact"></i>
+            <i class="fab fa-facebook-f fa-3x sr-contact"></i>
             <p>
               <a href="https://www.facebook.com/pg/Caliteba-SRL-1551435608310231/about/" target="_blank">Encontranos en Facebook</a>
             </p>
