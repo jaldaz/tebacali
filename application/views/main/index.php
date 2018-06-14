@@ -341,7 +341,7 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">                    
-                    LUM BmgH
+                    LUM GmbH
                   </div>
                   <div class="project-name">
                       Equipos para analisis de dispersion acelerada y caracterizacion de particulas.
