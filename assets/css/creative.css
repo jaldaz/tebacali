@@ -46,6 +46,20 @@ p {
 .bg-primary {
     background-color: #4060a0 !important; }
 
+.bg-alternative {
+    background-color: #4060a0 !important; 
+    color: white;
+    padding: 50px 0 !important;   
+}
+
+.bg-alternative p {
+    margin-bottom: 0;
+}
+
+.bg-alternative a{
+    color: #ff9090;
+}
+
 .bg-dark {
     color: white;
     background-color: #222222 !important; }

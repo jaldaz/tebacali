@@ -354,6 +354,15 @@ Así estamos trabajando para nuestro objetivo que es convertirnos en un proveedo
         </div>
       </div>
     </section>    
+    <section id="contact" class="bg-alternative">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 mx-auto text-center">
+            <p>Si estás interesado en unirte a nuestro equipo de trabajo, mándanos tu CV y una presentación personal a <a href="mailto:info@caliteba.com.ar">info@caliteba.com.ar</a>.</p>
+          </div>
+        </div>        
+      </div>
+    </section>    
     <section id="contact" class="bg-dark">
       <div class="container">
         <div class="row">
