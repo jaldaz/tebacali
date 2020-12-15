@@ -173,7 +173,7 @@ header.masthead {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; }
-header.masthead.uf {
+header.uf {
     background-image: url("../img/covid-19-vaccine-1500x856.jpg"); 
 }    
 header.masthead .header-content {
@@ -194,7 +194,7 @@ header.masthead .header-content .header-content-inner p {
     font-weight: 300;
     margin-bottom: 50px;
     color: rgba(255, 255, 255, 0.7); }
-header.masthead.uf .header-content .header-content-inner p {
+header.uf .header-content .header-content-inner p {
     font-size: 24px;
     font-weight: 300;
     margin-bottom: 50px;
