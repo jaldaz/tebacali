@@ -61,6 +61,7 @@
           <hr>
           <p>    Asegurá la temperatura de tu freezer / ultrafreezer para la vacuna COVID19 <br>
                     Calibraciones y Calificaciones IQ / OQ / PQ hasta -90ºC</p>          
+                    <hr>
         </div>
       </div>
     </header>
